@@ -1,3 +1,14 @@
-/node_modules
-node_modules
+# IDE
+.vscode/
+.idea/
+
+**/.next/
+**/.vscode/
+**/.idea/
+**/.next/
+**/dist/
+# Turbopack
+.turbo
 .DS_Store
+
+**/node_modules/
